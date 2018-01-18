@@ -1,0 +1,6 @@
+{
+    "name": "wordpress-plugins-purchased/gravityforms-zapier",
+    "description": "The default motionlab theme, for use by Motionlab",
+    "type": "wordpress-plugin",
+    "require": {}
+}
